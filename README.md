@@ -7,5 +7,7 @@ The interactive visualizations I made was a horizontal bar chart, a gauge chart,
 
 <img width="948" alt="Belly Button Dashboard" src="https://user-images.githubusercontent.com/79742633/140851964-8474b6b3-56da-40b5-bf5a-37a65449d744.png">
 
+<img width="960" alt="Belly Button Dashboard2" src="https://user-images.githubusercontent.com/79742633/140853672-9f79de49-6836-4336-8e47-fbf9b446b072.png">
+
 
 
